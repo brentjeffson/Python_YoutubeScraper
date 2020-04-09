@@ -1,0 +1,5 @@
+setup.py
+YoutubeScraper.egg-info/PKG-INFO
+YoutubeScraper.egg-info/SOURCES.txt
+YoutubeScraper.egg-info/dependency_links.txt
+YoutubeScraper.egg-info/top_level.txt
